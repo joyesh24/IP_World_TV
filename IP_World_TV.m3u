@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75" group-title="Entertainment", Zee Bangla HD
+http://xtv.ooo:8080/live/logixs1176/logixs7562/245893.ts
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gInBuHP9xh4CD1lc18uMNIArjhTiu4W8guvtzGhgx9z-X_Ax0nzYf8wiDBfiEDF-tg" group-title="Entertainment", Star Jalsha HD
+https://freeiptv25.netlify.app/live/app/StarJalshaHD/index.m3u8?token=freeiptv25
