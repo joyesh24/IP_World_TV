@@ -7,7 +7,7 @@ http://xtv.ooo:8080/live/logixs1176/logixs7562/245893.ts
 https://freeiptv25.netlify.app/live/app/StarJalshaHD/index.m3u8?token=freeiptv25
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channela", T Sports HD
-https://live-cdn.tsports.com/live-02/master_1920.m3u8
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="News", Gazi TV
 http://103.151.60.214:7444/1102/video.m3u8
