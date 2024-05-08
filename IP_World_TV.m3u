@@ -1,14 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75" group-title="Entertainment", Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnLV22zoiajTZa0Blp7EPPqsi1KP-HJ-eoAtg2rx04g&s" , Zee Bangla HD
 http://xtv.ooo:8080/live/logixs1176/logixs7562/245893.ts
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gInBuHP9xh4CD1lc18uMNIArjhTiu4W8guvtzGhgx9z-X_Ax0nzYf8wiDBfiEDF-tg" group-title="Entertainment", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gInBuHP9xh4CD1lc18uMNIArjhTiu4W8guvtzGhgx9z-X_Ax0nzYf8wiDBfiEDF-tg" , Star Jalsha HD
 https://freeiptv25.netlify.app/live/app/StarJalshaHD/index.m3u8?token=freeiptv25
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channela", T Sports HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T Sports HD
 http://103.151.60.214:7444/1101/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="News", Gazi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" , Gazi TV
 http://103.151.60.214:7444/1102/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdrlQrUyKPTHmrU0PwHPxUh2vV2wrhL3I8zfgT2ZSSw&s" , Colors
+http://xtv.ooo:8080/live/logixs1176/logixs7562/109947.ts
 
