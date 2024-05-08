@@ -15,3 +15,5 @@ http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdrlQrUyKPTHmrU0PwHPxUh2vV2wrhL3I8zfgT2ZSSw&s" , Colors
 http://xtv.ooo:8080/live/logixs1176/logixs7562/109947.ts
 
+#EXTINF:-1, Star
+http://xtv.ooo:8080/live/logixs1176/logixs7562/245898.ts
